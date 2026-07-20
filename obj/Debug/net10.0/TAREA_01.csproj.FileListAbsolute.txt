@@ -1,0 +1,14 @@
+C:\Users\josue\OneDrive\Desktop\TAREA_01\bin\Debug\net10.0\TAREA_01.exe
+C:\Users\josue\OneDrive\Desktop\TAREA_01\bin\Debug\net10.0\TAREA_01.deps.json
+C:\Users\josue\OneDrive\Desktop\TAREA_01\bin\Debug\net10.0\TAREA_01.runtimeconfig.json
+C:\Users\josue\OneDrive\Desktop\TAREA_01\bin\Debug\net10.0\TAREA_01.dll
+C:\Users\josue\OneDrive\Desktop\TAREA_01\bin\Debug\net10.0\TAREA_01.pdb
+C:\Users\josue\OneDrive\Desktop\TAREA_01\obj\Debug\net10.0\TAREA_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\OneDrive\Desktop\TAREA_01\obj\Debug\net10.0\TAREA_01.AssemblyInfoInputs.cache
+C:\Users\josue\OneDrive\Desktop\TAREA_01\obj\Debug\net10.0\TAREA_01.AssemblyInfo.cs
+C:\Users\josue\OneDrive\Desktop\TAREA_01\obj\Debug\net10.0\TAREA_01.csproj.CoreCompileInputs.cache
+C:\Users\josue\OneDrive\Desktop\TAREA_01\obj\Debug\net10.0\TAREA_01.dll
+C:\Users\josue\OneDrive\Desktop\TAREA_01\obj\Debug\net10.0\refint\TAREA_01.dll
+C:\Users\josue\OneDrive\Desktop\TAREA_01\obj\Debug\net10.0\TAREA_01.pdb
+C:\Users\josue\OneDrive\Desktop\TAREA_01\obj\Debug\net10.0\TAREA_01.genruntimeconfig.cache
+C:\Users\josue\OneDrive\Desktop\TAREA_01\obj\Debug\net10.0\ref\TAREA_01.dll
