@@ -1,0 +1,35 @@
+[
+  {
+    "Id": 1,
+    "Titulo": "Enviar solicitud de traslado a campus Medell\u00EDn",
+    "Descripcion": "Adjuntar carta de homologaci\u00F3n y notas de sistemas.",
+    "Prioridad": 2,
+    "Categoria": "Universidad",
+    "Completada": false,
+    "FechaCreacion": "2026-07-26T21:03:32.3824815-05:00",
+    "TieneVencimiento": true,
+    "FechaVencimiento": "2026-06-15T00:00:00"
+  },
+  {
+    "Id": 2,
+    "Titulo": "Comprar mu\u00F1eco de Paw Patrol para Luisda",
+    "Descripcion": "Buscar el personaje de Chase para la sorpresa del fin de semana.",
+    "Prioridad": 1,
+    "Categoria": "Familia",
+    "Completada": false,
+    "FechaCreacion": "2026-07-26T21:05:54.8913598-05:00",
+    "TieneVencimiento": true,
+    "FechaVencimiento": "2026-08-01T00:00:00"
+  },
+  {
+    "Id": 3,
+    "Titulo": "Configurar entorno Kali Linux en VirtualBox",
+    "Descripcion": "Verificar que la ISO de Kali corra correctamente y configurar la red en puente.",
+    "Prioridad": 2,
+    "Categoria": "Ciberseguridad",
+    "Completada": false,
+    "FechaCreacion": "2026-07-26T21:07:13.5430873-05:00",
+    "TieneVencimiento": false,
+    "FechaVencimiento": null
+  }
+]

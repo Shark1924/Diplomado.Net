@@ -1,0 +1,5 @@
+C:\Users\josue\OneDrive\Desktop\Diplomado.net\ejericio-02-poo\obj\Debug\net10.0\ejericio-02-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\OneDrive\Desktop\Diplomado.net\ejericio-02-poo\obj\Debug\net10.0\ejericio-02-poo.AssemblyInfoInputs.cache
+C:\Users\josue\OneDrive\Desktop\Diplomado.net\ejericio-02-poo\obj\Debug\net10.0\ejericio-02-poo.AssemblyInfo.cs
+C:\Users\josue\OneDrive\Desktop\Diplomado.net\ejericio-02-poo\obj\Debug\net10.0\ejericio-02-poo.csproj.CoreCompileInputs.cache
+C:\Users\josue\OneDrive\Desktop\Diplomado.net\ejericio-02-poo\obj\Debug\net10.0\ejericio-02-poo.sourcelink.json
